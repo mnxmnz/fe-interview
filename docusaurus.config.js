@@ -44,11 +44,44 @@ const config = {
         style: 'dark',
         links: [
           {
+            title: 'Links',
+            items: [
+              {
+                label: 'Computer Science',
+                to: '/category/-computer-science',
+              },
+              {
+                label: 'JavaScript',
+                to: '/category/-javascript',
+              },
+              {
+                label: 'TypeScript',
+                to: '/category/-typescript',
+              },
+              {
+                label: 'React',
+                to: '/category/-react',
+              },
+              {
+                label: 'Web',
+                to: '/category/-web',
+              },
+              {
+                label: 'Etc',
+                to: '/category/-etc',
+              },
+            ],
+          },
+          {
             title: 'More',
             items: [
               {
                 label: 'GitHub',
                 href: 'https://github.com/mnxmnz/FE-Interview',
+              },
+              {
+                label: 'Feedback',
+                href: 'https://forms.gle/rXRV9Yw7ZVUEHk6m6',
               },
             ],
           },
