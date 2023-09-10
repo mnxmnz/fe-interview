@@ -48,23 +48,23 @@ const config = {
             items: [
               {
                 label: 'Computer Science',
-                to: '/category/-computer-science',
+                to: '/computer-science',
               },
               {
                 label: 'JavaScript',
-                to: '/category/-javascript',
+                to: '/javascript',
               },
               {
                 label: 'TypeScript',
-                to: '/category/-typescript',
+                to: '/typescript',
               },
               {
                 label: 'React',
-                to: '/category/-react',
+                to: '/react',
               },
               {
                 label: 'Web',
-                to: '/category/-web',
+                to: '/web',
               },
               {
                 label: 'Etc',
