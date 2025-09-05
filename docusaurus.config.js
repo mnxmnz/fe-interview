@@ -4,7 +4,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Front-End Interview',
-  tagline: '신입 프론트엔드 개발자로 면접에 참여했을 때 받았던 질문을 정리했습니다.',
+  tagline: '신입 프론트엔드 개발자 면접에서 받은 질문을 정리했습니다.',
   favicon: 'img/icon.png',
   url: 'https://fe-interview-mnxmnz.vercel.app',
   baseUrl: '/',
@@ -78,6 +78,10 @@ const config = {
               {
                 label: 'GitHub',
                 href: 'https://github.com/mnxmnz/FE-Interview',
+              },
+              {
+                label: 'LinkedIn',
+                href: 'https://www.linkedin.com/in/dev-mnxmnz',
               },
               {
                 label: 'Feedback',
