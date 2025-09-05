@@ -16,4 +16,4 @@ sidebar_position: 1
 - [🌐 Web](/web)
 - [🧩 Etc](/category/-etc)
 
-> Front-End Interview에 대한 피드백은 [Google Form](https://forms.gle/rXRV9Yw7ZVUEHk6m6)으로 부탁드립니다. 감사합니다 🙂
+> 2년 차 프론트엔드 개발자 면접 질문은 [Junior Front-End Interview](https://junior-fe-interview.vercel.app) 에서 확인하실 수 있습니다.
